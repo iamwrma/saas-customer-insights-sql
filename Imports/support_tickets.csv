@@ -1,0 +1,501 @@
+ticket_id,customer_id,issue_type,created_at,resolved_at,status,resolution_time_hrs
+1,58,Feature Request,2025-07-13,2025-07-17,Resolved,96
+2,75,Performance,2025-04-11,2025-04-16,Resolved,120
+3,42,Feature Request,2025-03-27,2025-04-01,Resolved,120
+4,91,Performance,2025-02-28,2025-03-01,Resolved,24
+5,34,Feature Request,2025-06-06,2025-06-14,Resolved,192
+6,10,Performance,2025-07-22,2025-07-27,Resolved,120
+7,81,Login Issue,2025-07-13,2025-07-19,Resolved,144
+8,57,Data Error,2025-05-28,2025-06-04,Resolved,168
+9,54,Data Error,2025-03-14,2025-03-20,Resolved,144
+10,64,Bug,2025-07-08,2025-07-14,Resolved,144
+11,41,Feature Request,2025-07-05,2025-07-15,Resolved,240
+12,41,Data Error,2025-04-20,2025-04-27,Resolved,168
+13,26,Bug,2025-07-29,2025-08-06,Resolved,192
+14,76,Bug,2025-05-20,2025-05-27,Open,168
+15,68,Data Error,2025-03-05,2025-03-10,Resolved,120
+16,10,Performance,2025-02-14,2025-02-22,Open,192
+17,70,Performance,2025-03-02,2025-03-06,Resolved,96
+18,70,Feature Request,2025-02-12,2025-02-15,Resolved,72
+19,80,Feature Request,2025-02-13,2025-02-19,Resolved,144
+20,88,Feature Request,2025-07-10,2025-07-15,Resolved,120
+21,6,Bug,2025-07-25,2025-07-29,Resolved,96
+22,58,Login Issue,2025-07-19,2025-07-25,Resolved,144
+23,96,Bug,2025-05-13,2025-05-16,Resolved,72
+24,27,Data Error,2025-02-14,2025-02-18,Open,96
+25,60,Login Issue,2025-06-20,2025-06-21,Resolved,24
+26,66,Login Issue,2025-07-22,2025-07-25,Resolved,72
+27,9,Performance,2025-06-23,2025-06-30,Resolved,168
+28,46,Data Error,2025-03-18,2025-03-28,Resolved,240
+29,75,Bug,2025-03-10,2025-03-18,Resolved,192
+30,9,Login Issue,2025-04-16,2025-04-24,Resolved,192
+31,42,Performance,2025-04-16,2025-04-19,Resolved,72
+32,64,Bug,2025-07-01,2025-07-04,Open,72
+33,78,Bug,2025-04-19,2025-04-21,Resolved,48
+34,8,Login Issue,2025-03-14,2025-03-23,Resolved,216
+35,72,Performance,2025-07-23,2025-07-26,Resolved,72
+36,75,Bug,2025-07-13,2025-07-19,Resolved,144
+37,39,Bug,2025-02-23,2025-03-05,Resolved,240
+38,48,Bug,2025-02-27,2025-03-06,Resolved,168
+39,66,Data Error,2025-07-21,2025-07-25,Resolved,96
+40,78,Feature Request,2025-05-29,2025-05-30,Resolved,24
+41,98,Feature Request,2025-05-18,2025-05-21,Resolved,72
+42,92,Performance,2025-06-25,2025-06-26,Resolved,24
+43,81,Performance,2025-06-30,2025-07-02,Resolved,48
+44,50,Data Error,2025-06-10,2025-06-20,Resolved,240
+45,22,Data Error,2025-05-26,2025-05-27,Resolved,24
+46,52,Performance,2025-03-25,2025-03-31,Open,144
+47,71,Data Error,2025-05-08,2025-05-11,Open,72
+48,27,Login Issue,2025-05-15,2025-05-17,Resolved,48
+49,65,Bug,2025-03-12,2025-03-13,Resolved,24
+50,34,Feature Request,2025-05-26,2025-05-30,Resolved,96
+51,71,Performance,2025-06-22,2025-06-26,Resolved,96
+52,66,Performance,2025-07-16,2025-07-20,Resolved,96
+53,57,Login Issue,2025-06-08,2025-06-16,Open,192
+54,53,Bug,2025-05-11,2025-05-12,Open,24
+55,27,Bug,2025-06-11,2025-06-12,Resolved,24
+56,68,Bug,2025-07-12,2025-07-22,Resolved,240
+57,3,Feature Request,2025-04-14,2025-04-21,Open,168
+58,20,Login Issue,2025-07-16,2025-07-19,Resolved,72
+59,3,Bug,2025-02-03,2025-02-09,Resolved,144
+60,88,Feature Request,2025-03-31,2025-04-05,Resolved,120
+61,62,Bug,2025-03-09,2025-03-11,Resolved,48
+62,52,Data Error,2025-02-10,2025-02-16,Resolved,144
+63,11,Performance,2025-07-07,2025-07-17,Resolved,240
+64,20,Performance,2025-03-29,2025-04-06,Resolved,192
+65,31,Bug,2025-03-02,2025-03-12,Resolved,240
+66,76,Login Issue,2025-07-06,2025-07-09,Resolved,72
+67,52,Login Issue,2025-06-09,2025-06-14,Resolved,120
+68,88,Bug,2025-03-14,2025-03-20,Resolved,144
+69,14,Data Error,2025-04-25,2025-04-29,Resolved,96
+70,24,Feature Request,2025-07-16,2025-07-20,Open,96
+71,15,Data Error,2025-07-11,2025-07-18,Resolved,168
+72,81,Data Error,2025-05-10,2025-05-18,Resolved,192
+73,86,Feature Request,2025-03-30,2025-04-08,Resolved,216
+74,78,Data Error,2025-07-06,2025-07-11,Resolved,120
+75,4,Bug,2025-02-02,2025-02-07,Resolved,120
+76,81,Performance,2025-07-09,2025-07-14,Resolved,120
+77,43,Login Issue,2025-03-27,2025-04-04,Open,192
+78,95,Performance,2025-07-02,2025-07-04,Resolved,48
+79,12,Login Issue,2025-06-09,2025-06-15,Resolved,144
+80,71,Bug,2025-06-27,2025-07-07,Resolved,240
+81,70,Login Issue,2025-07-06,2025-07-08,Resolved,48
+82,13,Data Error,2025-03-04,2025-03-12,Resolved,192
+83,20,Bug,2025-02-07,2025-02-14,Resolved,168
+84,73,Bug,2025-05-13,2025-05-20,Resolved,168
+85,83,Performance,2025-07-27,2025-08-02,Resolved,144
+86,70,Feature Request,2025-06-27,2025-07-05,Resolved,192
+87,67,Feature Request,2025-05-15,2025-05-22,Open,168
+88,83,Feature Request,2025-04-04,2025-04-05,Resolved,24
+89,50,Feature Request,2025-02-10,2025-02-13,Resolved,72
+90,84,Login Issue,2025-07-30,2025-08-05,Resolved,144
+91,98,Data Error,2025-06-20,2025-06-21,Resolved,24
+92,13,Performance,2025-03-20,2025-03-22,Resolved,48
+93,66,Login Issue,2025-03-11,2025-03-21,Open,240
+94,99,Data Error,2025-02-14,2025-02-17,Resolved,72
+95,18,Bug,2025-07-09,2025-07-11,Resolved,48
+96,4,Data Error,2025-05-18,2025-05-27,Resolved,216
+97,84,Login Issue,2025-07-08,2025-07-16,Open,192
+98,63,Login Issue,2025-07-01,2025-07-09,Resolved,192
+99,1,Login Issue,2025-06-28,2025-07-02,Resolved,96
+100,52,Data Error,2025-03-17,2025-03-20,Resolved,72
+101,50,Feature Request,2025-04-05,2025-04-13,Resolved,192
+102,92,Performance,2025-02-20,2025-02-26,Resolved,144
+103,98,Login Issue,2025-05-16,2025-05-18,Resolved,48
+104,77,Bug,2025-05-11,2025-05-18,Resolved,168
+105,5,Performance,2025-06-27,2025-07-06,Resolved,216
+106,16,Data Error,2025-03-29,2025-04-07,Resolved,216
+107,7,Login Issue,2025-02-03,2025-02-07,Resolved,96
+108,59,Bug,2025-07-12,2025-07-14,Open,48
+109,76,Login Issue,2025-02-26,2025-03-01,Resolved,72
+110,17,Login Issue,2025-06-07,2025-06-11,Open,96
+111,29,Bug,2025-04-11,2025-04-12,Resolved,24
+112,62,Performance,2025-04-01,2025-04-05,Resolved,96
+113,100,Feature Request,2025-03-23,2025-03-29,Resolved,144
+114,19,Feature Request,2025-04-28,2025-05-02,Resolved,96
+115,76,Data Error,2025-03-28,2025-04-06,Resolved,216
+116,72,Feature Request,2025-04-25,2025-04-28,Resolved,72
+117,19,Performance,2025-05-17,2025-05-19,Resolved,48
+118,50,Login Issue,2025-04-13,2025-04-18,Resolved,120
+119,71,Login Issue,2025-06-13,2025-06-23,Resolved,240
+120,78,Feature Request,2025-02-27,2025-03-08,Resolved,216
+121,30,Data Error,2025-07-13,2025-07-20,Resolved,168
+122,29,Login Issue,2025-05-31,2025-06-03,Resolved,72
+123,36,Data Error,2025-03-12,2025-03-21,Resolved,216
+124,91,Feature Request,2025-07-11,2025-07-13,Resolved,48
+125,66,Login Issue,2025-07-22,2025-07-31,Resolved,216
+126,85,Login Issue,2025-02-18,2025-02-26,Resolved,192
+127,56,Data Error,2025-03-26,2025-04-05,Open,240
+128,85,Feature Request,2025-05-15,2025-05-21,Resolved,144
+129,39,Data Error,2025-02-24,2025-03-05,Resolved,216
+130,78,Bug,2025-07-03,2025-07-05,Open,48
+131,59,Feature Request,2025-02-13,2025-02-18,Resolved,120
+132,6,Bug,2025-04-25,2025-04-26,Resolved,24
+133,32,Performance,2025-06-30,2025-07-06,Resolved,144
+134,92,Bug,2025-03-06,2025-03-13,Resolved,168
+135,41,Feature Request,2025-05-19,2025-05-22,Resolved,72
+136,6,Login Issue,2025-06-18,2025-06-22,Resolved,96
+137,54,Feature Request,2025-05-29,2025-06-04,Open,144
+138,63,Data Error,2025-02-17,2025-02-20,Resolved,72
+139,42,Login Issue,2025-06-23,2025-06-28,Resolved,120
+140,59,Performance,2025-07-01,2025-07-07,Resolved,144
+141,66,Feature Request,2025-05-03,2025-05-07,Resolved,96
+142,79,Data Error,2025-05-20,2025-05-26,Resolved,144
+143,53,Performance,2025-07-19,2025-07-25,Resolved,144
+144,67,Performance,2025-07-12,2025-07-19,Resolved,168
+145,94,Login Issue,2025-06-01,2025-06-08,Resolved,168
+146,29,Bug,2025-07-10,2025-07-18,Resolved,192
+147,25,Bug,2025-05-07,2025-05-17,Resolved,240
+148,44,Performance,2025-06-06,2025-06-09,Resolved,72
+149,46,Performance,2025-05-08,2025-05-18,Resolved,240
+150,89,Login Issue,2025-07-18,2025-07-24,Resolved,144
+151,58,Feature Request,2025-04-17,2025-04-18,Resolved,24
+152,2,Login Issue,2025-03-01,2025-03-04,Resolved,72
+153,63,Login Issue,2025-02-12,2025-02-19,Resolved,168
+154,57,Performance,2025-04-12,2025-04-22,Resolved,240
+155,31,Performance,2025-02-12,2025-02-19,Resolved,168
+156,95,Login Issue,2025-06-14,2025-06-20,Resolved,144
+157,13,Performance,2025-04-23,2025-04-26,Resolved,72
+158,99,Data Error,2025-07-14,2025-07-15,Resolved,24
+159,22,Feature Request,2025-04-18,2025-04-21,Resolved,72
+160,85,Bug,2025-03-13,2025-03-20,Resolved,168
+161,28,Bug,2025-05-28,2025-05-31,Resolved,72
+162,13,Login Issue,2025-05-04,2025-05-08,Resolved,96
+163,42,Bug,2025-05-06,2025-05-07,Resolved,24
+164,43,Performance,2025-06-19,2025-06-29,Resolved,240
+165,44,Performance,2025-05-10,2025-05-15,Resolved,120
+166,81,Bug,2025-06-17,2025-06-22,Resolved,120
+167,6,Login Issue,2025-02-14,2025-02-16,Resolved,48
+168,88,Login Issue,2025-03-26,2025-03-28,Resolved,48
+169,99,Bug,2025-05-13,2025-05-19,Resolved,144
+170,41,Performance,2025-07-12,2025-07-15,Resolved,72
+171,57,Login Issue,2025-07-31,2025-08-04,Resolved,96
+172,87,Feature Request,2025-06-26,2025-07-04,Resolved,192
+173,5,Feature Request,2025-02-19,2025-02-20,Resolved,24
+174,46,Feature Request,2025-04-29,2025-05-05,Resolved,144
+175,17,Login Issue,2025-05-20,2025-05-30,Resolved,240
+176,83,Login Issue,2025-03-29,2025-04-01,Resolved,72
+177,12,Bug,2025-07-15,2025-07-24,Resolved,216
+178,68,Login Issue,2025-04-03,2025-04-04,Resolved,24
+179,62,Bug,2025-03-04,2025-03-08,Resolved,96
+180,80,Bug,2025-03-15,2025-03-25,Resolved,240
+181,78,Data Error,2025-03-01,2025-03-03,Resolved,48
+182,87,Data Error,2025-02-24,2025-03-05,Resolved,216
+183,95,Performance,2025-05-22,2025-05-25,Resolved,72
+184,29,Login Issue,2025-03-20,2025-03-24,Resolved,96
+185,67,Login Issue,2025-03-19,2025-03-22,Resolved,72
+186,36,Feature Request,2025-05-01,2025-05-11,Resolved,240
+187,91,Feature Request,2025-04-13,2025-04-18,Resolved,120
+188,36,Performance,2025-04-23,2025-04-30,Resolved,168
+189,34,Performance,2025-02-27,2025-03-07,Open,192
+190,6,Data Error,2025-05-20,2025-05-24,Resolved,96
+191,40,Performance,2025-03-24,2025-03-28,Resolved,96
+192,48,Performance,2025-03-08,2025-03-17,Resolved,216
+193,66,Performance,2025-02-28,2025-03-01,Resolved,24
+194,69,Performance,2025-06-05,2025-06-08,Resolved,72
+195,27,Bug,2025-07-17,2025-07-20,Open,72
+196,14,Login Issue,2025-07-24,2025-07-25,Resolved,24
+197,10,Login Issue,2025-04-28,2025-05-07,Resolved,216
+198,40,Bug,2025-07-04,2025-07-09,Resolved,120
+199,9,Performance,2025-03-02,2025-03-07,Resolved,120
+200,40,Data Error,2025-02-21,2025-03-02,Resolved,216
+201,62,Performance,2025-02-02,2025-02-06,Resolved,96
+202,7,Performance,2025-05-05,2025-05-13,Resolved,192
+203,84,Performance,2025-04-12,2025-04-19,Open,168
+204,90,Login Issue,2025-04-07,2025-04-16,Resolved,216
+205,14,Bug,2025-05-03,2025-05-12,Resolved,216
+206,97,Feature Request,2025-02-12,2025-02-20,Resolved,192
+207,20,Performance,2025-04-20,2025-04-22,Resolved,48
+208,30,Login Issue,2025-06-08,2025-06-15,Open,168
+209,83,Login Issue,2025-04-29,2025-05-05,Resolved,144
+210,42,Data Error,2025-04-29,2025-05-04,Resolved,120
+211,7,Login Issue,2025-03-24,2025-03-29,Resolved,120
+212,26,Login Issue,2025-05-17,2025-05-27,Resolved,240
+213,52,Login Issue,2025-06-24,2025-07-03,Resolved,216
+214,69,Performance,2025-06-14,2025-06-21,Resolved,168
+215,57,Bug,2025-04-08,2025-04-09,Resolved,24
+216,15,Data Error,2025-02-18,2025-02-22,Resolved,96
+217,42,Bug,2025-07-09,2025-07-19,Resolved,240
+218,81,Performance,2025-04-06,2025-04-08,Resolved,48
+219,97,Performance,2025-06-22,2025-06-26,Resolved,96
+220,51,Data Error,2025-04-23,2025-04-24,Open,24
+221,100,Login Issue,2025-04-19,2025-04-25,Resolved,144
+222,69,Performance,2025-06-27,2025-06-29,Resolved,48
+223,78,Performance,2025-02-14,2025-02-23,Resolved,216
+224,10,Performance,2025-04-30,2025-05-01,Resolved,24
+225,96,Bug,2025-04-19,2025-04-20,Resolved,24
+226,5,Performance,2025-04-29,2025-05-08,Resolved,216
+227,75,Data Error,2025-07-25,2025-08-04,Resolved,240
+228,82,Feature Request,2025-05-26,2025-05-27,Resolved,24
+229,57,Login Issue,2025-04-25,2025-04-27,Open,48
+230,58,Performance,2025-07-29,2025-07-30,Resolved,24
+231,80,Performance,2025-04-01,2025-04-03,Resolved,48
+232,58,Performance,2025-07-26,2025-08-02,Resolved,168
+233,69,Data Error,2025-02-12,2025-02-18,Open,144
+234,7,Bug,2025-07-21,2025-07-25,Resolved,96
+235,19,Bug,2025-07-10,2025-07-14,Resolved,96
+236,30,Feature Request,2025-05-17,2025-05-19,Resolved,48
+237,82,Bug,2025-02-14,2025-02-18,Resolved,96
+238,39,Bug,2025-05-22,2025-05-30,Resolved,192
+239,100,Performance,2025-07-03,2025-07-12,Open,216
+240,81,Performance,2025-06-05,2025-06-06,Resolved,24
+241,35,Bug,2025-07-30,2025-07-31,Resolved,24
+242,46,Performance,2025-04-26,2025-05-03,Resolved,168
+243,55,Data Error,2025-03-23,2025-03-29,Resolved,144
+244,66,Feature Request,2025-02-16,2025-02-24,Resolved,192
+245,38,Bug,2025-04-15,2025-04-23,Resolved,192
+246,34,Bug,2025-06-15,2025-06-16,Open,24
+247,53,Data Error,2025-05-26,2025-06-05,Open,240
+248,61,Feature Request,2025-07-21,2025-07-29,Resolved,192
+249,74,Feature Request,2025-02-02,2025-02-04,Resolved,48
+250,38,Login Issue,2025-03-22,2025-04-01,Resolved,240
+251,4,Performance,2025-04-09,2025-04-18,Resolved,216
+252,98,Bug,2025-07-05,2025-07-09,Resolved,96
+253,30,Data Error,2025-07-30,2025-08-01,Resolved,48
+254,99,Data Error,2025-07-31,2025-08-02,Resolved,48
+255,55,Feature Request,2025-02-18,2025-02-25,Resolved,168
+256,93,Feature Request,2025-04-17,2025-04-26,Resolved,216
+257,55,Performance,2025-04-18,2025-04-20,Open,48
+258,39,Bug,2025-03-15,2025-03-25,Resolved,240
+259,3,Performance,2025-02-28,2025-03-07,Resolved,168
+260,9,Login Issue,2025-07-16,2025-07-26,Resolved,240
+261,56,Data Error,2025-02-09,2025-02-18,Resolved,216
+262,28,Bug,2025-05-23,2025-05-27,Resolved,96
+263,18,Performance,2025-07-06,2025-07-08,Resolved,48
+264,79,Feature Request,2025-03-29,2025-03-30,Resolved,24
+265,41,Feature Request,2025-06-27,2025-06-28,Resolved,24
+266,62,Feature Request,2025-03-16,2025-03-25,Resolved,216
+267,28,Performance,2025-06-25,2025-06-29,Resolved,96
+268,98,Bug,2025-07-30,2025-08-08,Open,216
+269,64,Data Error,2025-04-02,2025-04-08,Resolved,144
+270,65,Data Error,2025-04-18,2025-04-26,Resolved,192
+271,85,Bug,2025-06-18,2025-06-27,Resolved,216
+272,27,Performance,2025-06-12,2025-06-18,Resolved,144
+273,16,Data Error,2025-03-25,2025-03-29,Resolved,96
+274,46,Feature Request,2025-07-03,2025-07-13,Resolved,240
+275,75,Performance,2025-06-30,2025-07-09,Resolved,216
+276,64,Bug,2025-05-03,2025-05-06,Resolved,72
+277,47,Feature Request,2025-02-13,2025-02-16,Open,72
+278,58,Login Issue,2025-06-20,2025-06-28,Resolved,192
+279,91,Bug,2025-06-26,2025-06-27,Open,24
+280,21,Performance,2025-06-03,2025-06-09,Resolved,144
+281,77,Feature Request,2025-06-25,2025-06-30,Resolved,120
+282,91,Feature Request,2025-03-12,2025-03-19,Resolved,168
+283,86,Bug,2025-06-24,2025-07-04,Resolved,240
+284,19,Bug,2025-06-15,2025-06-16,Resolved,24
+285,85,Data Error,2025-06-17,2025-06-21,Open,96
+286,57,Login Issue,2025-03-11,2025-03-20,Resolved,216
+287,30,Bug,2025-06-22,2025-06-25,Resolved,72
+288,14,Feature Request,2025-05-20,2025-05-28,Resolved,192
+289,66,Feature Request,2025-07-28,2025-08-04,Resolved,168
+290,51,Performance,2025-03-16,2025-03-25,Resolved,216
+291,72,Bug,2025-05-21,2025-05-25,Resolved,96
+292,100,Performance,2025-04-02,2025-04-04,Resolved,48
+293,96,Data Error,2025-05-09,2025-05-10,Resolved,24
+294,27,Login Issue,2025-06-22,2025-06-25,Resolved,72
+295,91,Data Error,2025-03-19,2025-03-25,Resolved,144
+296,5,Feature Request,2025-06-12,2025-06-19,Resolved,168
+297,18,Feature Request,2025-05-01,2025-05-05,Open,96
+298,73,Bug,2025-02-26,2025-03-07,Resolved,216
+299,12,Login Issue,2025-03-02,2025-03-06,Resolved,96
+300,43,Bug,2025-03-01,2025-03-02,Resolved,24
+301,72,Feature Request,2025-05-16,2025-05-26,Resolved,240
+302,48,Bug,2025-07-23,2025-07-26,Resolved,72
+303,91,Performance,2025-07-31,2025-08-01,Resolved,24
+304,85,Performance,2025-05-23,2025-05-27,Resolved,96
+305,39,Feature Request,2025-07-08,2025-07-11,Resolved,72
+306,83,Data Error,2025-07-22,2025-07-30,Resolved,192
+307,21,Bug,2025-03-12,2025-03-14,Resolved,48
+308,30,Performance,2025-05-24,2025-06-02,Resolved,216
+309,30,Bug,2025-04-07,2025-04-13,Resolved,144
+310,23,Feature Request,2025-02-27,2025-03-07,Resolved,192
+311,39,Bug,2025-07-02,2025-07-09,Resolved,168
+312,12,Feature Request,2025-06-03,2025-06-13,Open,240
+313,49,Feature Request,2025-04-27,2025-05-05,Resolved,192
+314,95,Bug,2025-07-05,2025-07-08,Open,72
+315,48,Performance,2025-07-02,2025-07-05,Resolved,72
+316,9,Bug,2025-05-29,2025-06-03,Resolved,120
+317,71,Performance,2025-05-04,2025-05-09,Resolved,120
+318,45,Data Error,2025-02-11,2025-02-19,Resolved,192
+319,81,Data Error,2025-07-24,2025-07-25,Resolved,24
+320,95,Feature Request,2025-05-12,2025-05-20,Resolved,192
+321,33,Performance,2025-06-12,2025-06-20,Resolved,192
+322,69,Data Error,2025-05-11,2025-05-13,Resolved,48
+323,32,Data Error,2025-04-09,2025-04-16,Resolved,168
+324,75,Bug,2025-06-24,2025-07-04,Resolved,240
+325,56,Performance,2025-06-19,2025-06-27,Resolved,192
+326,50,Performance,2025-02-17,2025-02-23,Resolved,144
+327,4,Bug,2025-03-18,2025-03-25,Resolved,168
+328,60,Performance,2025-03-02,2025-03-09,Resolved,168
+329,27,Feature Request,2025-06-28,2025-07-06,Resolved,192
+330,39,Feature Request,2025-07-30,2025-07-31,Resolved,24
+331,38,Data Error,2025-04-11,2025-04-18,Resolved,168
+332,50,Performance,2025-05-18,2025-05-22,Resolved,96
+333,61,Bug,2025-07-01,2025-07-06,Open,120
+334,91,Login Issue,2025-02-18,2025-02-28,Resolved,240
+335,33,Bug,2025-02-02,2025-02-05,Resolved,72
+336,50,Feature Request,2025-02-11,2025-02-16,Resolved,120
+337,23,Login Issue,2025-04-30,2025-05-07,Resolved,168
+338,94,Performance,2025-03-28,2025-04-03,Resolved,144
+339,16,Feature Request,2025-03-11,2025-03-19,Resolved,192
+340,45,Feature Request,2025-07-21,2025-07-24,Resolved,72
+341,96,Performance,2025-02-28,2025-03-02,Resolved,48
+342,81,Data Error,2025-04-04,2025-04-09,Resolved,120
+343,74,Performance,2025-03-19,2025-03-29,Resolved,240
+344,46,Bug,2025-05-31,2025-06-08,Open,192
+345,70,Bug,2025-07-24,2025-07-29,Resolved,120
+346,37,Performance,2025-06-29,2025-07-03,Resolved,96
+347,84,Bug,2025-03-15,2025-03-17,Resolved,48
+348,11,Feature Request,2025-07-27,2025-08-06,Resolved,240
+349,81,Data Error,2025-07-13,2025-07-19,Open,144
+350,63,Bug,2025-07-25,2025-07-27,Open,48
+351,35,Data Error,2025-05-16,2025-05-23,Resolved,168
+352,95,Feature Request,2025-07-05,2025-07-08,Resolved,72
+353,79,Performance,2025-02-22,2025-02-23,Resolved,24
+354,15,Data Error,2025-05-19,2025-05-22,Resolved,72
+355,55,Login Issue,2025-05-08,2025-05-17,Resolved,216
+356,9,Feature Request,2025-05-30,2025-06-03,Resolved,96
+357,57,Login Issue,2025-05-15,2025-05-23,Resolved,192
+358,1,Feature Request,2025-07-12,2025-07-22,Resolved,240
+359,44,Data Error,2025-02-25,2025-03-06,Resolved,216
+360,2,Performance,2025-05-07,2025-05-11,Resolved,96
+361,21,Bug,2025-06-29,2025-07-04,Resolved,120
+362,22,Data Error,2025-03-23,2025-03-27,Resolved,96
+363,10,Feature Request,2025-07-07,2025-07-09,Resolved,48
+364,66,Data Error,2025-02-14,2025-02-16,Resolved,48
+365,86,Performance,2025-05-25,2025-06-01,Resolved,168
+366,13,Data Error,2025-05-19,2025-05-21,Resolved,48
+367,52,Data Error,2025-04-02,2025-04-09,Resolved,168
+368,73,Data Error,2025-03-11,2025-03-20,Resolved,216
+369,71,Login Issue,2025-04-18,2025-04-25,Resolved,168
+370,10,Feature Request,2025-04-06,2025-04-10,Resolved,96
+371,83,Login Issue,2025-05-19,2025-05-20,Resolved,24
+372,37,Bug,2025-02-21,2025-02-23,Resolved,48
+373,13,Performance,2025-06-29,2025-07-07,Resolved,192
+374,30,Data Error,2025-03-13,2025-03-20,Resolved,168
+375,98,Login Issue,2025-07-22,2025-07-25,Resolved,72
+376,39,Login Issue,2025-06-17,2025-06-20,Resolved,72
+377,36,Feature Request,2025-07-10,2025-07-19,Resolved,216
+378,86,Data Error,2025-02-17,2025-02-27,Resolved,240
+379,62,Performance,2025-03-23,2025-03-31,Resolved,192
+380,50,Feature Request,2025-02-09,2025-02-14,Open,120
+381,90,Login Issue,2025-03-11,2025-03-12,Resolved,24
+382,8,Login Issue,2025-02-25,2025-02-28,Open,72
+383,91,Performance,2025-06-04,2025-06-11,Resolved,168
+384,76,Login Issue,2025-07-26,2025-07-28,Resolved,48
+385,33,Feature Request,2025-04-24,2025-05-01,Resolved,168
+386,72,Performance,2025-06-05,2025-06-11,Open,144
+387,27,Feature Request,2025-05-04,2025-05-05,Resolved,24
+388,89,Performance,2025-03-26,2025-04-01,Resolved,144
+389,63,Feature Request,2025-03-10,2025-03-13,Resolved,72
+390,58,Login Issue,2025-02-17,2025-02-19,Resolved,48
+391,37,Feature Request,2025-07-25,2025-07-29,Resolved,96
+392,4,Performance,2025-02-09,2025-02-13,Resolved,96
+393,95,Login Issue,2025-06-03,2025-06-09,Resolved,144
+394,17,Login Issue,2025-04-04,2025-04-08,Resolved,96
+395,76,Bug,2025-03-11,2025-03-15,Resolved,96
+396,93,Data Error,2025-03-04,2025-03-06,Resolved,48
+397,17,Data Error,2025-07-02,2025-07-03,Resolved,24
+398,69,Feature Request,2025-02-11,2025-02-21,Open,240
+399,52,Feature Request,2025-06-24,2025-07-04,Resolved,240
+400,37,Data Error,2025-07-07,2025-07-09,Resolved,48
+401,86,Login Issue,2025-06-05,2025-06-14,Resolved,216
+402,82,Data Error,2025-02-12,2025-02-13,Resolved,24
+403,31,Performance,2025-02-23,2025-02-28,Resolved,120
+404,26,Feature Request,2025-04-09,2025-04-18,Resolved,216
+405,99,Bug,2025-05-28,2025-05-31,Resolved,72
+406,4,Data Error,2025-05-31,2025-06-04,Resolved,96
+407,20,Performance,2025-04-19,2025-04-24,Open,120
+408,55,Login Issue,2025-03-01,2025-03-10,Resolved,216
+409,82,Performance,2025-03-06,2025-03-16,Resolved,240
+410,45,Login Issue,2025-07-28,2025-08-07,Resolved,240
+411,96,Bug,2025-05-11,2025-05-21,Resolved,240
+412,4,Feature Request,2025-05-08,2025-05-09,Resolved,24
+413,74,Performance,2025-03-12,2025-03-16,Resolved,96
+414,93,Data Error,2025-05-10,2025-05-17,Resolved,168
+415,83,Bug,2025-05-04,2025-05-08,Resolved,96
+416,75,Feature Request,2025-03-27,2025-04-03,Resolved,168
+417,50,Feature Request,2025-04-27,2025-04-28,Resolved,24
+418,91,Performance,2025-03-02,2025-03-04,Resolved,48
+419,24,Bug,2025-03-07,2025-03-10,Resolved,72
+420,15,Bug,2025-05-14,2025-05-21,Resolved,168
+421,72,Performance,2025-02-03,2025-02-09,Resolved,144
+422,25,Data Error,2025-07-26,2025-08-05,Resolved,240
+423,54,Performance,2025-03-14,2025-03-22,Resolved,192
+424,49,Feature Request,2025-05-21,2025-05-26,Resolved,120
+425,58,Bug,2025-06-14,2025-06-15,Resolved,24
+426,59,Bug,2025-03-06,2025-03-10,Open,96
+427,16,Feature Request,2025-07-31,2025-08-02,Open,48
+428,77,Performance,2025-04-15,2025-04-21,Resolved,144
+429,96,Performance,2025-02-27,2025-03-03,Resolved,96
+430,49,Data Error,2025-04-12,2025-04-16,Open,96
+431,54,Login Issue,2025-03-08,2025-03-18,Resolved,240
+432,53,Feature Request,2025-02-18,2025-02-22,Resolved,96
+433,56,Performance,2025-07-19,2025-07-29,Resolved,240
+434,10,Data Error,2025-02-05,2025-02-08,Open,72
+435,1,Data Error,2025-05-16,2025-05-26,Resolved,240
+436,18,Bug,2025-05-01,2025-05-06,Resolved,120
+437,41,Login Issue,2025-06-22,2025-06-29,Resolved,168
+438,96,Performance,2025-03-20,2025-03-28,Resolved,192
+439,51,Feature Request,2025-02-26,2025-03-04,Resolved,144
+440,31,Data Error,2025-03-14,2025-03-16,Resolved,48
+441,36,Bug,2025-04-13,2025-04-21,Resolved,192
+442,23,Data Error,2025-07-28,2025-07-30,Resolved,48
+443,5,Login Issue,2025-04-26,2025-05-04,Resolved,192
+444,18,Login Issue,2025-07-14,2025-07-17,Resolved,72
+445,17,Performance,2025-07-19,2025-07-28,Resolved,216
+446,18,Feature Request,2025-04-23,2025-04-27,Resolved,96
+447,88,Feature Request,2025-05-08,2025-05-12,Resolved,96
+448,90,Bug,2025-04-15,2025-04-24,Resolved,216
+449,29,Data Error,2025-04-05,2025-04-11,Open,144
+450,35,Feature Request,2025-05-31,2025-06-07,Resolved,168
+451,79,Login Issue,2025-06-02,2025-06-05,Resolved,72
+452,76,Data Error,2025-04-07,2025-04-14,Resolved,168
+453,70,Feature Request,2025-05-23,2025-05-26,Resolved,72
+454,6,Feature Request,2025-04-27,2025-05-04,Resolved,168
+455,10,Login Issue,2025-04-09,2025-04-18,Resolved,216
+456,27,Feature Request,2025-07-20,2025-07-29,Open,216
+457,93,Data Error,2025-07-10,2025-07-14,Resolved,96
+458,57,Performance,2025-04-20,2025-04-27,Open,168
+459,55,Performance,2025-05-11,2025-05-18,Resolved,168
+460,71,Bug,2025-06-25,2025-07-01,Resolved,144
+461,29,Performance,2025-04-09,2025-04-18,Resolved,216
+462,54,Data Error,2025-04-16,2025-04-26,Resolved,240
+463,63,Login Issue,2025-07-08,2025-07-17,Resolved,216
+464,46,Login Issue,2025-06-04,2025-06-05,Resolved,24
+465,80,Login Issue,2025-04-15,2025-04-25,Resolved,240
+466,95,Feature Request,2025-02-12,2025-02-18,Resolved,144
+467,3,Login Issue,2025-03-10,2025-03-12,Resolved,48
+468,13,Performance,2025-07-14,2025-07-20,Resolved,144
+469,61,Bug,2025-05-16,2025-05-24,Resolved,192
+470,58,Data Error,2025-03-03,2025-03-10,Resolved,168
+471,79,Login Issue,2025-03-12,2025-03-22,Resolved,240
+472,10,Login Issue,2025-07-17,2025-07-24,Resolved,168
+473,42,Feature Request,2025-06-26,2025-07-05,Resolved,216
+474,20,Performance,2025-05-01,2025-05-10,Resolved,216
+475,82,Data Error,2025-06-05,2025-06-14,Open,216
+476,39,Data Error,2025-02-19,2025-02-20,Resolved,24
+477,36,Bug,2025-07-26,2025-07-31,Resolved,120
+478,52,Data Error,2025-03-22,2025-03-30,Resolved,192
+479,16,Login Issue,2025-05-21,2025-05-28,Resolved,168
+480,36,Login Issue,2025-06-12,2025-06-21,Resolved,216
+481,38,Performance,2025-03-31,2025-04-10,Open,240
+482,4,Performance,2025-04-20,2025-04-23,Resolved,72
+483,79,Performance,2025-02-24,2025-03-02,Resolved,144
+484,22,Bug,2025-02-24,2025-03-02,Resolved,144
+485,28,Bug,2025-06-20,2025-06-29,Resolved,216
+486,32,Performance,2025-02-18,2025-02-20,Resolved,48
+487,100,Feature Request,2025-02-25,2025-03-02,Resolved,120
+488,45,Feature Request,2025-04-21,2025-04-22,Open,24
+489,9,Feature Request,2025-05-17,2025-05-23,Resolved,144
+490,59,Performance,2025-05-24,2025-05-25,Resolved,24
+491,39,Bug,2025-05-15,2025-05-18,Resolved,72
+492,51,Data Error,2025-04-05,2025-04-15,Resolved,240
+493,47,Login Issue,2025-03-26,2025-03-29,Resolved,72
+494,56,Bug,2025-06-15,2025-06-23,Resolved,192
+495,40,Login Issue,2025-05-10,2025-05-18,Resolved,192
+496,18,Data Error,2025-07-29,2025-08-06,Resolved,192
+497,49,Data Error,2025-03-17,2025-03-21,Resolved,96
+498,7,Bug,2025-05-20,2025-05-23,Resolved,72
+499,15,Login Issue,2025-02-09,2025-02-10,Resolved,24
+500,71,Login Issue,2025-06-14,2025-06-17,Resolved,72

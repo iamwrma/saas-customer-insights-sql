@@ -1,0 +1,101 @@
+customer_id,company_name,industry,signup_date,region
+1,Company_1,Finance,2024-10-23,Europe
+2,Company_2,Finance,2023-12-06,North America
+3,Company_3,Retail,2023-12-29,Asia
+4,Company_4,Healthcare,2024-10-06,North America
+5,Company_5,Healthcare,2023-11-12,Australia
+6,Company_6,Healthcare,2024-04-20,Australia
+7,Company_7,Finance,2023-11-13,Europe
+8,Company_8,Technology,2024-05-20,Australia
+9,Company_9,Finance,2024-06-27,Europe
+10,Company_10,Technology,2024-11-20,North America
+11,Company_11,Manufacturing,2025-02-11,North America
+12,Company_12,Finance,2024-01-28,North America
+13,Company_13,Finance,2024-02-13,Europe
+14,Company_14,Finance,2025-03-31,North America
+15,Company_15,Healthcare,2025-05-15,North America
+16,Company_16,Healthcare,2025-03-12,Asia
+17,Company_17,Technology,2025-01-27,North America
+18,Company_18,Technology,2023-09-29,Australia
+19,Company_19,Finance,2025-01-20,Europe
+20,Company_20,Technology,2023-08-06,Asia
+21,Company_21,Healthcare,2024-04-26,South America
+22,Company_22,Technology,2023-10-31,Europe
+23,Company_23,Manufacturing,2025-04-28,Australia
+24,Company_24,Healthcare,2024-06-03,Europe
+25,Company_25,Manufacturing,2024-06-07,Australia
+26,Company_26,Technology,2023-10-31,Australia
+27,Company_27,Retail,2024-03-10,South America
+28,Company_28,Finance,2024-01-08,Europe
+29,Company_29,Healthcare,2024-10-18,South America
+30,Company_30,Manufacturing,2023-12-14,South America
+31,Company_31,Retail,2025-06-21,Europe
+32,Company_32,Retail,2023-08-06,North America
+33,Company_33,Healthcare,2025-03-07,North America
+34,Company_34,Healthcare,2023-08-04,South America
+35,Company_35,Retail,2023-12-31,Asia
+36,Company_36,Finance,2024-10-02,South America
+37,Company_37,Finance,2023-09-15,South America
+38,Company_38,Manufacturing,2024-07-19,South America
+39,Company_39,Finance,2025-03-10,North America
+40,Company_40,Retail,2024-09-05,North America
+41,Company_41,Retail,2024-04-13,North America
+42,Company_42,Technology,2025-01-22,South America
+43,Company_43,Retail,2024-03-25,Asia
+44,Company_44,Finance,2025-06-29,North America
+45,Company_45,Manufacturing,2024-10-06,Europe
+46,Company_46,Technology,2024-02-06,Europe
+47,Company_47,Finance,2025-01-01,Europe
+48,Company_48,Manufacturing,2024-01-30,Australia
+49,Company_49,Finance,2025-03-16,South America
+50,Company_50,Technology,2023-10-01,Europe
+51,Company_51,Retail,2024-08-31,South America
+52,Company_52,Technology,2023-09-17,Europe
+53,Company_53,Retail,2024-01-30,Asia
+54,Company_54,Technology,2023-10-18,South America
+55,Company_55,Healthcare,2024-12-11,Europe
+56,Company_56,Finance,2025-01-27,North America
+57,Company_57,Finance,2024-06-15,South America
+58,Company_58,Healthcare,2025-01-18,Australia
+59,Company_59,Retail,2023-12-28,North America
+60,Company_60,Finance,2024-01-06,North America
+61,Company_61,Healthcare,2025-07-02,Australia
+62,Company_62,Finance,2023-10-28,North America
+63,Company_63,Manufacturing,2024-08-05,North America
+64,Company_64,Retail,2024-02-18,Europe
+65,Company_65,Manufacturing,2025-06-13,Europe
+66,Company_66,Retail,2025-03-10,South America
+67,Company_67,Healthcare,2024-06-26,South America
+68,Company_68,Retail,2024-08-22,South America
+69,Company_69,Retail,2024-10-30,Europe
+70,Company_70,Healthcare,2025-05-04,South America
+71,Company_71,Retail,2024-10-29,North America
+72,Company_72,Finance,2023-11-30,Europe
+73,Company_73,Technology,2025-04-13,South America
+74,Company_74,Healthcare,2025-04-06,North America
+75,Company_75,Technology,2024-02-21,South America
+76,Company_76,Healthcare,2025-04-23,Asia
+77,Company_77,Healthcare,2024-01-04,South America
+78,Company_78,Manufacturing,2025-02-24,Asia
+79,Company_79,Manufacturing,2025-02-21,South America
+80,Company_80,Retail,2023-08-27,Australia
+81,Company_81,Technology,2024-03-03,South America
+82,Company_82,Healthcare,2023-12-18,Europe
+83,Company_83,Retail,2025-01-14,Europe
+84,Company_84,Finance,2024-10-04,Asia
+85,Company_85,Healthcare,2024-01-09,Europe
+86,Company_86,Finance,2023-10-20,North America
+87,Company_87,Retail,2024-04-25,Australia
+88,Company_88,Manufacturing,2024-11-28,Australia
+89,Company_89,Retail,2023-12-28,North America
+90,Company_90,Finance,2024-12-09,Asia
+91,Company_91,Healthcare,2024-08-17,North America
+92,Company_92,Technology,2024-05-20,North America
+93,Company_93,Retail,2023-08-15,Australia
+94,Company_94,Healthcare,2023-09-06,South America
+95,Company_95,Manufacturing,2024-06-15,Australia
+96,Company_96,Manufacturing,2024-04-10,Australia
+97,Company_97,Manufacturing,2024-01-20,Europe
+98,Company_98,Healthcare,2024-03-27,North America
+99,Company_99,Retail,2025-03-01,Australia
+100,Company_100,Healthcare,2024-10-22,North America
